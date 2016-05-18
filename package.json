@@ -1,0 +1,26 @@
+{
+  "name": "quicktype",
+  "version": "1.0.0",
+  "description": "A webapp that helps you write quicker and visualize the structure of what you wrote.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test",
+    "start": "nodemon C:\\Users\\Richard\\Desktop\\QuickType\\app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardahn/QuickType.git"
+  },
+  "keywords": [
+    "quicktype"
+  ],
+  "author": "Richard Ahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardahn/QuickType/issues"
+  },
+  "homepage": "https://github.com/richardahn/QuickType#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
